@@ -1,0 +1,5 @@
+These are things I'm considering for future releases:
+
+TaskVector to make parallel operations easier.
+An install CFM page that uses the CF Admin API to set up the gateway.
+Some sample applications (suggestions welcome).
